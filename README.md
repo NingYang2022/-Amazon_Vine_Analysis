@@ -37,5 +37,45 @@ Our project is analyzing Amazon reviews written by members of the paid Amazon Vi
     4. vine_table
 ![vine_table](https://github.com/NingYang2022/Amazon_Vine_Analysis/blob/main/Images/vine_table.png?raw=true)
 
+- There were **136** Vine reviews and **18019** non-Vine reviews.
 
+- There were **74** Vine reviews that were 5 stars and **8482** non-Vine reviews were 5 stars
+
+- **54.41%** of Vine reviews were 5 stars and **47.07%** of non-Vine reviews were 5 stars.
+
+
+## <font color=#6495ED>Summary</font>
+
+|  | All Reviews |  |
+| :------:| :------: | :------: |
+| Vine| 136 | 0.75% |
+| Non Vine | 18,089 | 99.25% |
+|Total|18,155||
+
+
+|  | All Reviews |  |
+| :------:| :------: | :------: |
+|  5 Stars | 8,559 | 47.14% |
+| All Others | 9,596 | 52.86% |
+|Total|18,155||
+
+
+
+|  | All Vine Reviews |  |
+| :------:| :------: | :------: |
+|  5 Stars | 74 | 54.41% |
+| All Others | 62 | 45.59% |
+|Total|136||
+
+
+|  | All Non-Vine Reviews |  |
+| :------:| :------: | :------: |
+| 5 Stars| 8,482 | 47.07% |
+| All Others | 9,537 | 52.93% |
+|Total|18,019||
+
+- Vine reviews account for only 0.75% of all reviews, which indicates that Vine program have little impact on results of star rating. This explains that **percentage 5-star reviews for total reviews(47.14%)** is similar to 
+**percentage 5-star reviews for non-Vine reviews(47.07%)**
+
+- There is a small positivity bias for reviews in the Vine program. Compared to non-Vine reviews, more than half of Vine reviews **(54.41%)** vote for 5 stars，which indicates that the Vine programs tend to give 5 stars over non-Vine rating. 
 
