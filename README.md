@@ -77,5 +77,5 @@ Our project is analyzing Amazon reviews written by members of the paid Amazon Vi
 - Vine reviews account for only 0.75% of all reviews, which indicates that Vine program have little impact on results of star rating. This explains that **percentage 5-star reviews for total reviews(47.14%)** is similar to 
 **percentage 5-star reviews for non-Vine reviews(47.07%)**
 
-- There is a small positivity bias for reviews in the Vine program. Compared to non-Vine reviews, more than half of Vine reviews **(54.41%)** vote for 5 stars，which indicates that the Vine programs tend to give 5 stars over non-Vine rating. 
+- There is a small positivity bias for reviews in the Vine program. Compared to non-Vine reviews, more than half of Vine reviews **(54.41%)** vote for 5 stars，which indicates that the Vine members tend to give 5 stars over non-Vine members. 
 
