@@ -23,6 +23,8 @@ Our project is analyzing Amazon reviews written by members of the paid Amazon Vi
 - PostgreDB on [Amazon RDS](https://aws.amazon.com/s3/)
 - PgAdmin 4
 
+![PySpark_ETL_Diagram](https://github.com/NingYang2022/Amazon_Vine_Analysis/blob/main/Images/PySpark_ETL_Diagram.png?raw=true)
+
 ## <font color=#6495ED>Results</font>
 - The PostgreDB tables on Amazon RDS had been populated with the data through the ETL process.
     1. review_id_table
